@@ -51,7 +51,8 @@ A list of some useful key combinations etc. for Windows Terminal.
 | Keys | Description |
 | -------- | ------- |
 | CTRL+, | Open settings |
-| CTRL+ALT+, | Open settings JSON file |
+| CTRL+ALT+, | Open settings JSON file (Generated file) |
+| CTRL+, | Open settings then bottom right Open JSON file (editable file) |
 | CTRL+SHIFT+P, | Open Command Palette |
 
 ## Others
