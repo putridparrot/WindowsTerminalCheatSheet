@@ -39,7 +39,7 @@ A list of some useful key combinations etc. for Windows Terminal.
 | CTRL+- | Decease font size |
 | CTRL+0 | Reset font size |
 
-## Clipbaord
+## Clipboard
 
 | Keys | Description |
 | -------- | ------- |
