@@ -33,7 +33,7 @@ A list of some useful key combinations etc. for Windows Terminal.
 
 | Keys | Description |
 | -------- | ------- |
-| CTRL+. | Open settings |
+| CTRL+, | Open settings |
 | CTRL+ALT+, | Open settings JSON file |
 | CTRL+SHIFT+P, | Open Command Palette |
 
