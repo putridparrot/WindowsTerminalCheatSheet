@@ -46,4 +46,5 @@ A list of some useful key combinations etc. for Windows Terminal.
 ## Files
 
 | Location | Description |
+| -------- | ------- |
 | $env:APPDATA\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt | Location of autocompletion commands |
