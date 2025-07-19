@@ -13,6 +13,7 @@ A list of some useful key combinations etc. for Windows Terminal.
 | ALT+SHIFT++ | Split the pane (vertically) |
 | ALT+ARROW KEYS | Move focus between panes |
 | ALT+SHIFT+ARROW KEYS | Resize the active pane |
+| ALT+SHIFT+D | Duplicate Pane |
 
 ## Navigation and Search
 
@@ -21,6 +22,13 @@ A list of some useful key combinations etc. for Windows Terminal.
 | CTRL+SHIFT+F | Find text |
 | CTRL+SHIFT+UP/DOWN ARROW | Scroll through buffer/screen |
 | CTRL+SHIFT+HOME/END | Scroll to top/bottom of the buffer/screen |
+
+## Fonts
+
+| Keys | Description |
+| -------- | ------- |
+| CTRL++ | Increase font size |
+| CTRL+- | Decease font size |
 
 ## Clipbaord
 
