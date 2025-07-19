@@ -23,6 +23,14 @@ A list of some useful key combinations etc. for Windows Terminal.
 | CTRL+SHIFT+UP/DOWN ARROW | Scroll through buffer/screen |
 | CTRL+SHIFT+HOME/END | Scroll to top/bottom of the buffer/screen |
 
+## Windows
+
+| Keys | Description |
+| -------- | ------- |
+| CTRL+SHIFT+N | New Window |
+| ALT+F4 | Close Window |
+
+
 ## Fonts
 
 | Keys | Description |
