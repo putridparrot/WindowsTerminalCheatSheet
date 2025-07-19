@@ -65,3 +65,4 @@ A list of some useful key combinations etc. for Windows Terminal.
 | Location | Description |
 | -------- | ------- |
 | $env:APPDATA\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt | Location of autocompletion commands |
+| $env:LocalAppData\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json | Location of settings.json |
